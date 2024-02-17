@@ -4,4 +4,4 @@ The components which are used to create this project are HTML, CSS, JavaScript.
 
 Future scopes:- Create a game for one v one users.
 
-Authour:- Akash Bhosale.
+Author:- Akash Bhosale.
